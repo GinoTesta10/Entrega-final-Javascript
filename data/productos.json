@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "FC 25",
+    "price": 70000,
+    "category": "Deportes",
+    "image": "assets/fifa25.png"
+  },
+  {
+    "id": 2,
+    "title": "Assassins Creed: Shadows",
+    "price": 120000,
+    "category": "Aventura, sigilo",
+    "image": "assets/assasins.webp"
+  },
+  {
+    "id": 3,
+    "title": "Mortal Kombat 1",
+    "price": 80000,
+    "category": "Pelea",
+    "image": "assets/mk1.png"
+  },
+  {
+    "id": 4,
+    "title": "God of War: Ragnarok",
+    "price": 100000,
+    "category": "Aventura, Accion",
+    "image": "assets/gowRagnar.webp"
+  }
+]
